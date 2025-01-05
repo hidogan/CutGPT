@@ -54,17 +54,14 @@ There’s nothing to install! Just visit the website, and you’re ready to go.
    git clone https://github.com/yourusername/CutGPT.git
    cd CutGPT
    ```
-
 2. **Install Dependencies**: Navigate to the project directory and install the necessary packages:
    ```bash
    npm install
    ```
-
 3. **Start the Development Server**: Launch the application in development mode:
    ```bash
    npm run dev
    ```
-
    The application will be accessible at `http://localhost:3000`.
 
 ## 📜 **License**
