@@ -1,66 +1,72 @@
-# CutGPT - Prompt Splitter
+# 🎉 **CutGPT - Prompt Splitter**
 
-A modern web application that helps you split large prompts into smaller, manageable chunks for use with AI models like ChatGPT.
+## 🌐 Visit Our Website
 
-## Features
+Check out our [CutGPT Website](https://cutgpt.xyz/) for more details.
 
-- Smart prompt splitting based on token count
-- Fast and efficient processing
-- Clean, modern UI with dark mode support
-- Responsive design for all devices
-- Built with Vite and React for optimal performance
+CutGPT is a simple yet powerful web tool that helps you split large text prompts into smaller, manageable chunks, optimized for AI model processing. Whether you're working with long texts or need to process large data efficiently, CutGPT ensures your content is perfectly formatted for AI applications.
 
-## Getting Started
+## 🚀 **Key Features**
 
-### Prerequisites
+- **Smart Prompt Splitting**: Automatically divides your large text into smaller chunks based on token count, ensuring seamless compatibility with AI models.
+- **Fast & Efficient**: Process large prompts quickly and accurately, without any delays.
+- **User-Friendly Interface**: An intuitive and clean design that makes it easy to use for everyone, regardless of technical expertise.
+- **Responsive Design**: Enjoy a consistent experience across all devices – desktops, tablets, and smartphones.
+- **Optimized Performance**: Built using modern web technologies for a fast and smooth user experience.
 
-- Node.js 18.0 or higher
-- npm 7.0 or higher
+## 🛠️ **How It Works**
+
+1. **Input Your Text**: Simply paste or type your large prompt into the input area.
+2. **Automatic Splitting**: CutGPT will automatically split the text into smaller, manageable chunks.
+3. **Output**: Get the split results that are ready to be fed into AI models for processing.
+
+CutGPT is ideal for anyone who needs to process large text inputs in a way that is compatible with AI-powered tools.
+
+## 🧰 **Technology Stack**
+
+- **React**: A JavaScript library for building user interfaces.
+- **TypeScript**: A strongly typed programming language that builds on JavaScript.
+- **Vite**: A fast development build tool.
+- **ESLint**: Ensures code quality by automatically checking for issues.
+
+## 🚀 **Getting Started**
+
+### **How to Use CutGPT**
+
+1. Open the website.
+2. Paste your large text prompt into the input box.
+3. Let CutGPT automatically split the text into manageable chunks.
+4. Copy the output, ready for use in your AI model.
+
+That’s it! No complex setup or configuration needed.
+
+### **Prerequisites**
+
+There’s nothing to install! Just visit the website, and you’re ready to go.
+
+- **Node.js** (v18 or higher)
+- **npm** (v7 or higher)
 
 ### Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/cutgpt.git
-cd cutgpt
-```
+1. **Clone the Repository**: Use the following command to clone the project:
+   ```bash
+   git clone https://github.com/yourusername/CutGPT.git
+   cd CutGPT
+   ```
 
-2. Install dependencies:
-```bash
-npm install
-```
+2. **Install Dependencies**: Navigate to the project directory and install the necessary packages:
+   ```bash
+   npm install
+   ```
 
-3. Start the development server:
-```bash
-npm run dev
-```
+3. **Start the Development Server**: Launch the application in development mode:
+   ```bash
+   npm run dev
+   ```
 
-### Building for Production
+   The application will be accessible at `http://localhost:3000`.
 
-To create a production build:
-```bash
-npm run build
-```
-
-The build artifacts will be stored in the `dist/` directory.
-
-## Technology Stack
-
-- React 18
-- TypeScript
-- Vite
-- TailwindCSS
-- ESLint
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
+## 📜 **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Built with [Vite](https://vitejs.dev/)
-- UI components styled with [TailwindCSS](https://tailwindcss.com/)
